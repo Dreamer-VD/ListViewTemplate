@@ -8,7 +8,42 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Assets\Images\" />
+    <None Remove="Assets\Images\admin1.jpg" />
+    <None Remove="Assets\Images\admin2.jpg" />
+    <None Remove="Assets\Images\Client1.jpg" />
+    <None Remove="Assets\Images\Client10.jpg" />
+    <None Remove="Assets\Images\Client11.jpg" />
+    <None Remove="Assets\Images\Client2.jpg" />
+    <None Remove="Assets\Images\Client3.jpg" />
+    <None Remove="Assets\Images\Client7.jpg" />
+    <None Remove="Assets\Images\Client8.jpg" />
+    <None Remove="Assets\Images\Client9.jpg" />
+    <None Remove="Assets\Images\Manager1.jpg" />
+    <None Remove="Assets\Images\Manager2.jpg" />
+    <None Remove="Assets\Images\Manager3.jpg" />
+    <None Remove="Assets\Images\Manager4.jpg" />
+    <None Remove="Assets\Images\Manager5.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\Client3.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\admin1.jpg" />
+    <Resource Include="Assets\Images\admin2.jpg" />
+    <Resource Include="Assets\Images\Client1.jpg" />
+    <Resource Include="Assets\Images\Client10.jpg" />
+    <Resource Include="Assets\Images\Client11.jpg" />
+    <Resource Include="Assets\Images\Client2.jpg" />
+    <Resource Include="Assets\Images\Client7.jpg" />
+    <Resource Include="Assets\Images\Client8.jpg" />
+    <Resource Include="Assets\Images\Client9.jpg" />
+    <Resource Include="Assets\Images\Manager1.jpg" />
+    <Resource Include="Assets\Images\Manager2.jpg" />
+    <Resource Include="Assets\Images\Manager3.jpg" />
+    <Resource Include="Assets\Images\Manager4.jpg" />
+    <Resource Include="Assets\Images\Manager5.jpg" />
   </ItemGroup>
 
 </Project>

@@ -45,7 +45,7 @@ namespace ListViewTemplate.Model
             Login = login;
             Password = password;
             Role = role;
-            Image =new BitmapImage(new Uri("pack://application,,,/Assets/Images/" + image));
+            Image =new BitmapImage(new Uri("pack://application:,,,/Assets/Images/" + image));
         }
     }
 }
