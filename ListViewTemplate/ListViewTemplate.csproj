@@ -18,6 +18,7 @@
     <None Remove="Assets\Images\Client7.jpg" />
     <None Remove="Assets\Images\Client8.jpg" />
     <None Remove="Assets\Images\Client9.jpg" />
+    <None Remove="Assets\Images\Clietn4.jpg" />
     <None Remove="Assets\Images\Manager1.jpg" />
     <None Remove="Assets\Images\Manager2.jpg" />
     <None Remove="Assets\Images\Manager3.jpg" />
@@ -30,8 +31,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\Images\admin1.jpg" />
-    <Resource Include="Assets\Images\admin2.jpg" />
+    <Resource Include="Assets\Images\Admin1.jpg" />
+    <Resource Include="Assets\Images\Admin2.jpg" />
     <Resource Include="Assets\Images\Client1.jpg" />
     <Resource Include="Assets\Images\Client10.jpg" />
     <Resource Include="Assets\Images\Client11.jpg" />
