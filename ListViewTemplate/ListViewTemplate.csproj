@@ -13,8 +13,13 @@
     <None Remove="Assets\Images\Client1.jpg" />
     <None Remove="Assets\Images\Client10.jpg" />
     <None Remove="Assets\Images\Client11.jpg" />
+    <None Remove="Assets\Images\Client12.jpg" />
+    <None Remove="Assets\Images\Client13.jpg" />
     <None Remove="Assets\Images\Client2.jpg" />
     <None Remove="Assets\Images\Client3.jpg" />
+    <None Remove="Assets\Images\Client4.jpg" />
+    <None Remove="Assets\Images\Client5.jpg" />
+    <None Remove="Assets\Images\Client6.jpg" />
     <None Remove="Assets\Images\Client7.jpg" />
     <None Remove="Assets\Images\Client8.jpg" />
     <None Remove="Assets\Images\Client9.jpg" />
@@ -24,6 +29,12 @@
     <None Remove="Assets\Images\Manager3.jpg" />
     <None Remove="Assets\Images\Manager4.jpg" />
     <None Remove="Assets\Images\Manager5.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Images\Client12.jpg" />
+    <Resource Include="Assets\Images\Client13.jpg" />
+    <Resource Include="Assets\Images\Client6.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,6 +48,8 @@
     <Resource Include="Assets\Images\Client10.jpg" />
     <Resource Include="Assets\Images\Client11.jpg" />
     <Resource Include="Assets\Images\Client2.jpg" />
+    <Resource Include="Assets\Images\Client4.jpg" />
+    <Resource Include="Assets\Images\Client5.jpg" />
     <Resource Include="Assets\Images\Client7.jpg" />
     <Resource Include="Assets\Images\Client8.jpg" />
     <Resource Include="Assets\Images\Client9.jpg" />
